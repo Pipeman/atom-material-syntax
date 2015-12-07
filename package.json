@@ -1,15 +1,15 @@
 {
-  "name": "atom-material-syntax",
+  "name": "tozzy-material-syntax",
   "theme": "syntax",
   "version": "0.2.6",
-  "description": "A dark syntax theme for Atom that uses Google's Material Design color palette",
+  "description": "A dark syntax theme for Atom modified by TozzY that uses (almost) Google's Material Design color palette. Forked from https://github.com/silvestreh/atom-material-ui",
   "keywords": [
     "syntax",
     "theme",
     "material",
     "material design"
   ],
-  "repository": "https://github.com/silvestreh/atom-material-syntax",
+  "repository": "https://github.com/Pipeman/atom-material-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
